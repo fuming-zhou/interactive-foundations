@@ -1,0 +1,46 @@
+
+body {
+height: 120vh;
+}
+
+.container{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background: black;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.lipstick-base {
+background: rgb(223, 170, 94);
+width: 153px;
+height: 82px;
+position: absolute;
+top: 431px;
+left: 221px;
+border-radius: 5px;
+}
+
+.lipstick-body {
+background: rgb(246, 200, 133);
+width: 129px;
+height: 300px;
+position: absolute;
+top: 197px;
+left: 233px;
+border-radius: 5px;
+}
+
+.top {
+display: block;
+width: 98px;
+height: 160px;
+background: rgb(249, 27, 41);
+border-radius: 5% 101% 0% 0% / 5% 60% 0% 0%;
+position: sticky;
+margin-left: 248px;
+top: 150px;
+}
+
+
