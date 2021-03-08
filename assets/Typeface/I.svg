@@ -1,0 +1,25 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M40.125 30C40.125 24.5462 44.5462 20.125 50 20.125H59.875V39.875H50C44.5462 39.875 40.125 35.4538 40.125 30Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M40.125 190C40.125 195.454 44.5462 199.875 50 199.875H59.875V180.125H50C44.5462 180.125 40.125 184.546 40.125 190Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M179.875 30C179.875 24.5462 175.454 20.125 170 20.125H160.125V39.875H170C175.454 39.875 179.875 35.4538 179.875 30Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M179.875 190C179.875 195.454 175.454 199.875 170 199.875H160.125V180.125H170C175.454 180.125 179.875 184.546 179.875 190Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="60.125" y="20.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="0.125" y="-0.125" width="19.75" height="19.75" transform="matrix(1 0 0 -1 60 199.75)" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="-0.125" y="0.125" width="19.75" height="19.75" transform="matrix(-1 0 0 1 159.75 20)" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="159.875" y="199.875" width="19.75" height="19.75" transform="rotate(-180 159.875 199.875)" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="60.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="40.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="0.125" y="-0.125" width="19.75" height="19.75" transform="matrix(1 0 0 -1 100 179.75)" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M80.125 20.1254C91.0025 20.1924 99.8076 28.9975 99.8746 39.875H80.125V20.1254Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M80.125 199.875C91.0025 199.808 99.8076 191.002 99.8746 180.125H80.125V199.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M139.875 20.1254C128.998 20.1924 120.192 28.9975 120.125 39.875H139.875V20.1254Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M139.875 199.875C128.998 199.808 120.192 191.002 120.125 180.125H139.875V199.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M99.875 59.8746C88.9975 59.8076 80.1924 51.0025 80.1254 40.125H99.875V59.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M99.875 160.125C88.9975 160.192 80.1924 168.998 80.1254 179.875H99.875V160.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M120.125 59.8746C131.002 59.8076 139.808 51.0025 139.875 40.125H120.125V59.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M120.125 160.125C131.002 160.192 139.808 168.998 139.875 179.875H120.125V160.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="100.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="80.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="120.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="140.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+</svg>

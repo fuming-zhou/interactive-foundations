@@ -1,307 +1,426 @@
 body{
-
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
 }
 
-.T-vertical-stroke{
+#showcase {
+    width: 880px;
+    height: 220px;
+    margin: auto;
+    position: relative;
+    overflow: visible;
+    top: calc(50vh - 300px);
+}
+
+.letter {
+  /***  position: absolute; */
+    opacity: 0;
+    animation: opacity 2s ease 1s forwards;
+}
+
+@keyframes opacity{
+    from{ opacity: 0; }
+    to { opacity: 1; }
+}
+
+
+#T {
+    width: 220px;
+    height: 220px;
+    display:inline-block;
+}
+
+#Y {
+    width: 220px;
+    height: 220px;
+    display:inline-block;
+}
+
+#P {
+    width: 220px;
+    height: 220px;
+    display:inline-block;
+}
+
+#E {
+    width: 220px;
+    height: 220px;
+    display:inline-block;
+}
+
+.T-vertical-stroke {
     width: 20px;
     height: 140px;
+    top: 62px;
+    left: 100px;
     display: block;
     position: absolute;
-    top: 60px;
-    left: 100px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 0px 32px 32px;
 }
-.T-horizontal-stroke1{
+.T-horizontal-stroke1 {
     width: 60px;
     height: 20px;
-    display: block;
-    position: absolute;
     top: 20px;
     left: 20px;
-    background: black;
+    display: block;
+    position: absolute;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 32px 64px 0px 32px;
 }
-.T-horizontal-stroke2{
+
+.T-horizontal-stroke2 {
     width: 60px;
     height: 20px;
-    display: block;
-    position: absolute;
     top: 20px;
     left: 140px;
-    background: black;
-    border-radius: 64px 32px 32px 0px;
-}
-.T-horizontal-stroke3{
-    width: 100px;
-    height: 20px;
     display: block;
     position: absolute;
-    top: 40px;
+    background: transparent;
+    border: 1px dashed;
+    border-radius: 64px 32px 32px 0px;
+}
+
+.T-horizontal-stroke3 {
+    width: 100px;
+    height: 20px;
+    top: 41px;
     left: 60px;
-    background: black;
+    display: block;
+    position: absolute;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 0px 64px 64px;
 }
 
 
-
-.Y-horizontal-stroke1{
+.Y-horizontal-stroke1 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
     top: 20px;
     left: 240px;
-    background: black;
-    border-radius: 0px 64px 0px 64px;
+    background: transparent;
+    border: 1px dashed;
+    border-radius: 0px 64px 0 64px;
 }
-.Y-horizontal-stroke2{
+
+.Y-horizontal-stroke2 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 40px;
+    top: 41px;
     left: 260px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 64px 0px 64px;
 }
-.Y-horizontal-stroke3{
+
+.Y-horizontal-stroke3 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 60px;
+    top: 62px;
     left: 280px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 64px 0px 64px;
 }
-.Y-horizontal-stroke4{
+
+.Y-horizontal-stroke4 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 80px;
+    top: 83px;
     left: 300px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 64px 0px 64px;
 }
-.Y-horizontal-stroke5{
+
+.Y-horizontal-stroke5 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
     top: 20px;
     left: 400px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke6{
+
+.Y-horizontal-stroke6 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 40px;
+    top: 41px;
     left: 380px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke7{
+
+.Y-horizontal-stroke7 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 60px;
+    top: 62px;
     left: 360px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke8{
+
+.Y-horizontal-stroke8 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 80px;
+    top: 83px;
     left: 340px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke9{
+
+.Y-horizontal-stroke9 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 100px;
+    top: 104px;
     left: 320px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke10{
+
+.Y-horizontal-stroke10 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 120px;
+    top: 125px;
     left: 300px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke11{
+
+.Y-horizontal-stroke11 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 140px;
+    top: 146px;
     left: 280px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke12{
+
+.Y-horizontal-stroke12 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 160px;
+    top: 167px;
     left: 260px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.Y-horizontal-stroke13{
+
+.Y-horizontal-stroke13 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 180px;
+    top: 188px;
     left: 240px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
 
 
 
-.P-vertical-stroke{
+.P-vertical-stroke {
     width: 20px;
     height: 180px;
     display: block;
     position: absolute;
     top: 20px;
     left: 480px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 32px 32px;
 }
-.P-horizontal-stroke1{
+
+.P-horizontal-stroke1 {
     width: 120px;
     height: 20px;
     display: block;
     position: absolute;
     top: 20px;
-    left: 500px;
-    background: black;
+    left: 501px;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 64px 0px 0px;
 }
-.P-horizontal-stroke2{
+
+.P-horizontal-stroke2 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 40px;
+    top: 41px;
     left: 600px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 64px 0px 64px;
 }
-.P-horizontal-stroke3{
+
+.P-horizontal-stroke3 {
     width: 20px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 60px;
+    top: 62px;
     left: 620px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
 }
-.P-horizontal-stroke4{
+
+.P-horizontal-stroke4 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 80px;
+    top: 83px;
     left: 600px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.P-horizontal-stroke5{
+
+.P-horizontal-stroke5 {
     width: 120px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 100px;
-    left: 500px;
-    background: black;
+    top: 104px;
+    left: 501px;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 0px 64px 0px;
 }
 
 
 
-.E-vertical-stroke{
+.E-vertical-stroke {
     width: 20px;
     height: 100px;
     display: block;
     position: absolute;
-    top: 60px;
+    top: 62px;
     left: 680px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
 }
-.E-horizontal-stroke1{
+
+.E-horizontal-stroke1 {
     width: 120px;
     height: 20px;
     display: block;
     position: absolute;
     top: 20px;
     left: 700px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 32px 32px 0px;
 }
-.E-horizontal-stroke2{
+
+.E-horizontal-stroke2 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 40px;
+    top: 41px;
     left: 680px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 64px 0px 64px 0px;
 }
-.E-horizontal-stroke3{
+
+.E-horizontal-stroke3 {
     width: 120px;
     height: 20px;
     display: block;
     position: absolute;
     top: 100px;
-    left: 700px;
-    background: black;
+    left: 701px;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 32px 32px 0px;
 }
-.E-horizontal-stroke4{
+
+.E-horizontal-stroke4 {
     width: 40px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 160px;
+    top: 163px;
     left: 680px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 64px 0px 64px;
 }
-.E-horizontal-stroke5{
+
+.E-horizontal-stroke5 {
     width: 140px;
     height: 20px;
     display: block;
     position: absolute;
-    top: 180px;
+    top: 184px;
     left: 700px;
-    background: black;
+    background: transparent;
+    border: 1px dashed;
     border-radius: 0px 32px 32px 64px;
 }
 
+#showcase:hover {
+    transform: scale(1.5);
+}
+
+.letter:hover > div {
+    border: 1px solid;
+    animation: shake 0.5s; 
+    animation-iteration-count: infinite;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
 
 
-.hovereffect:hover{
-  transform: skew(25deg, 10deg);
+@keyframes shake {
+  0% { transform: translate(5px, 5px) rotate(0deg); }
+  10% { transform: translate(-5px, -10px) rotate(-5deg); }
+  20% { transform: translate(-3px, 0px) rotate(5deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(5px, -5px) rotate(5deg); }
+  50% { transform: translate(-5px, 2px) rotate(-5deg); }
+  60% { transform: translate(-3px, 5px) rotate(0deg); }
+  70% { transform: translate(3px, 5px) rotate(-5deg); }
+  80% { transform: translate(-5px, -5px) rotate(5deg); }
+  90% { transform: translate(5px, 2px) rotate(0deg); }
+  100% { transform: translate(5px, -2px) rotate(-5deg); }
 }

@@ -1,0 +1,10 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="100.125" y="40.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="80.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M100.125 30C100.125 24.5462 104.546 20.125 110 20.125C115.454 20.125 119.875 24.5462 119.875 30V39.875H100.125V30Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="60.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="100.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M100.125 120.125H119.875V130C119.875 135.454 115.454 139.875 110 139.875C104.546 139.875 100.125 135.454 100.125 130V120.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M100.125 160.125C111.002 160.192 119.808 168.998 119.875 179.875H100.125V160.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M119.875 199.875C108.998 199.808 100.192 191.002 100.125 180.125H119.875V199.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+</svg>

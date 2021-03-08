@@ -1,0 +1,20 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20.125 30C20.125 24.5462 24.5462 20.125 30 20.125H39.875V39.875H30C24.5462 39.875 20.125 35.4538 20.125 30Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M199.875 30C199.875 24.5462 195.454 20.125 190 20.125H180.125V39.875H190C195.454 39.875 199.875 35.4538 199.875 30Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M110 199.875C115.454 199.875 119.875 195.454 119.875 190L119.875 180.125L100.125 180.125L100.125 190C100.125 195.454 104.546 199.875 110 199.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="40.125" y="20.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="-0.125" y="0.125" width="19.75" height="19.75" transform="matrix(-1 0 0 1 179.75 20)" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="40.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="120.125" y="40.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="80.125" y="40.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M60.125 20.1254C71.0025 20.1924 79.8076 28.9975 79.8746 39.875H60.125V20.1254Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M159.875 20.1254C148.998 20.1924 140.192 28.9975 140.125 39.875H159.875V20.1254Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M79.875 59.8746C68.9975 59.8076 60.1924 51.0025 60.1254 40.125H79.875V59.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M140.125 59.8746C151.002 59.8076 159.808 51.0025 159.875 40.125H140.125V59.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="80.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="120.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="60.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="100.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="140.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="100.125" y="160.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+</svg>

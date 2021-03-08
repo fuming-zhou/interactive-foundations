@@ -1,0 +1,50 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+background: rgb(190,206,255);
+background: linear-gradient(0deg, rgba(190,206,255,1) 0%, rgba(218,149,255,1) 100%);
+}
+
+/* navigation */
+
+nav {
+	padding: 30px;
+}
+
+/* stage */
+
+#showcase {
+	width: 80vw;
+	position: relative;
+	overflow: visible;
+	margin:0 auto;
+	top: calc(50vh - 400px);
+}
+
+hr.breakline{
+  border-top: 3px dashed black;
+}
+
+/* images */
+
+svg:hover path {
+	fill: pink ;
+}
+
+img{
+	max-width:80vw;
+	max-height:80vh;
+}
+
+#showcase > img {
+	margin-bottom:15vh;
+}
+
+.alphabet > img {
+	width:10%;
+	padding: 5%;
+	float:left;
+}

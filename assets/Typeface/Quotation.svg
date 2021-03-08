@@ -1,0 +1,26 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M79.8746 99.875C79.8076 88.9975 71.0025 80.1924 60.125 80.1254V99.875H79.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M139.875 99.875C139.808 88.9975 131.002 80.1924 120.125 80.1254V99.875H139.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M60.125 79.8746C71.0025 79.8076 79.8076 71.0025 79.8746 60.125H60.125V79.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M120.125 79.8746C131.002 79.8076 139.808 71.0025 139.875 60.125H120.125V79.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M79.8746 59.875C79.8076 48.9975 71.0025 40.1924 60.125 40.1254V59.875H79.8746Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M139.875 59.875C139.808 48.9975 131.002 40.1924 120.125 40.1254V59.875H139.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="-0.125" y="0.125" width="19.75" height="19.75" transform="matrix(-1 0 0 1 59.75 60)" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="-0.125" y="0.125" width="19.75" height="19.75" transform="matrix(-1 0 0 1 119.75 60)" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M59.875 40.1254C48.9975 40.1924 40.1924 48.9975 40.1254 59.875H59.875V40.1254Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M119.875 40.1254C108.998 40.1924 100.192 48.9975 100.125 59.875H119.875V40.1254Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M59.875 80.125H40.1254C40.1924 91.0025 48.9975 99.8076 59.875 99.8746V80.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M119.875 80.125H100.125C100.192 91.0025 108.998 99.8076 119.875 99.8746V80.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M160.125 199.875C160.192 188.998 168.998 180.192 179.875 180.125V199.875H160.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M100.125 199.875C100.192 188.998 108.998 180.192 119.875 180.125V199.875H100.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M179.875 179.875C168.998 179.808 160.192 171.002 160.125 160.125H179.875V179.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M119.875 179.875C108.998 179.808 100.192 171.002 100.125 160.125H119.875V179.875Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M160.125 159.875C160.192 148.998 168.998 140.192 179.875 140.125V159.875H160.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M100.125 159.875C100.192 148.998 108.998 140.192 119.875 140.125V159.875H100.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="180.125" y="160.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<rect x="120.125" y="160.125" width="19.75" height="19.75" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M180.125 140.125C191.002 140.192 199.808 148.998 199.875 159.875H180.125V140.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M120.125 140.125C131.002 140.192 139.808 148.998 139.875 159.875H120.125V140.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M180.125 180.125H199.875C199.808 191.002 191.002 199.808 180.125 199.875V180.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+<path d="M120.125 180.125H139.875C139.808 191.002 131.002 199.808 120.125 199.875V180.125Z" fill="black" stroke="#A9A9A9" stroke-width="0.25"/>
+</svg>
