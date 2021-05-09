@@ -47,10 +47,10 @@ img {vertical-align: middle;}
 .text {
   color: black;
   font-size: 15px;
-  padding: 8px 12px;
+  padding: 6px 12px;
   position: absolute;
   bottom: 0px;
-  width: 100%;
+  width: 976px;
   text-align: center;
   background-color: #DEB887;
   font-family: Poppins, sans-serif;
@@ -62,7 +62,7 @@ img {vertical-align: middle;}
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
-  top: 0;
+  top: 5;
 }
 
 /* The dots/bullets/indicators */
