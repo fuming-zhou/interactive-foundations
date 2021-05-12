@@ -51,7 +51,7 @@ top: 180px;
 	display: block;
 	width: 100vw;
 	height: 50px;
-	margin-top: 36px;
+	margin-top: 0;
 	text-align: center;
 	position: fixed;
 	font-family: Poppins, sans-serif;
@@ -60,3 +60,4 @@ top: 180px;
 a:link {
 	text-decoration: none;
 }
+
