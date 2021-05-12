@@ -1,9 +1,24 @@
 
+body {
+  font-family: Poppins, sans-serif;
+  margin: 0;
+}
+
+.mySlides {
+  display: none;
+  }
+
+img {
+  vertical-align: middle;
+  }
+
+
 .navbar {
   overflow: hidden;
   background-color: #DEB887;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
   font-family: Poppins, sans-serif;
   z-index: 1;
@@ -22,10 +37,6 @@
 .navbar a:hover {
   text-decoration: underline;
 }
-
-body {font-family: Poppins, sans-serif;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
 
 .title {
 	display: block;

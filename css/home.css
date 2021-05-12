@@ -1,0 +1,90 @@
+
+body {
+  font-family: Poppins, sans-serif;
+  background: white;
+  margin: 0;
+  text-align: center;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.textalign {
+  text-align: center;
+  margin-top: 50vh;
+  position: relative;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+#grid{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+#strap1{
+  background-color: #B22222;
+}
+
+#strap1:hover {
+  background-color: transparent;
+}
+
+#strap2{
+  background-color: #FF8C00;
+}
+
+#strap2:hover {
+  background-color: transparent;
+}
+
+#strap3{
+  background-color: #FFD700;
+}
+
+#strap3:hover {
+  background-color: transparent;
+}
+
+#strap4{
+  background-color: #008000;
+}
+
+#strap4:hover {
+  background-color: transparent;
+}
+
+#strap5{
+  background-color: #87CEFA;
+}
+
+#strap5:hover {
+  background-color: transparent;
+}
+
+#strap6{
+  background-color: #4B0082;
+}
+
+#strap6:hover {
+  background-color: transparent;
+}
+
+#strap7{
+  background-color: #663399;
+}
+
+#strap7:hover {
+  background-color: transparent;
+}
+
+
+
+
