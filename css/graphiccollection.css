@@ -239,6 +239,7 @@ a:link{
 	animation: mymovem 3s;
 	animation-delay: 36s;
 	animation-fill-mode: forwards;
+  position: relative;
 }
 
 @keyframes mymovem {
